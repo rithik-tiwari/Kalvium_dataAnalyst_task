@@ -11,3 +11,7 @@
 - The **Samajwadi Party** won in **Gainsari** and **Duddhi**, while the **BJP** won in **Dadraul, Lucknow East**, and **Duddhi** constituencies in Uttar Pradesh.
 - The constituencies of **Bhagabangola** and **Baranagar** were won by the **All India Trinamool Congress** in West Bengal.
 - In **46 of the 60 Assembly Constituencies** in Arunachal Pradesh, the **Bharatiya Janata Party (BJP)** is in the lead, followed by the **Meghalaya National People's Party (NPEP)** with five seats, **Independents** with three seats, and the **Nationalist Congress Party (NCP)** with three seats apiece.
+
+## Output / Report 
+
+- Output and report file is attached above.
